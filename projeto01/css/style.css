@@ -1,0 +1,55 @@
+body {
+  background-color: #f9e7e7;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+img {
+  display: inline-block;
+}
+
+h1 {
+  font-family: "Staatliches";
+  font-size: 5em;
+  text-align: center;
+  color: #29335c;
+}
+
+h2 {
+  font-family: "Staatliches";
+  font-size: 2em;
+  text-align: center;
+  color: #29335c;
+  background-color: #afe3c0;
+}
+p {
+  font-family: "Lato", sans-serif;
+}
+
+li {
+  display: inline;
+}
+
+.h2A {
+  display: inline-block;
+  text-align: left;
+  background-color: #f9e7e7;
+  width: 40%;
+}
+
+.h2B {
+  display: inline-block;
+  text-align: left;
+  background-color: #f9e7e7;
+  width: 40%;
+}
+
+.pA {
+  display: inline-block;
+  width: 40%;
+}
+
+.pB {
+  display: inline-block;
+  width: 40%;
+}
