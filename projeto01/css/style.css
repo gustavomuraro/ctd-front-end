@@ -53,3 +53,17 @@ li {
   display: inline-block;
   width: 40%;
 }
+
+.meusite {
+  display: block;
+  font-family: "Staatliches";
+  font-size: 3em;
+  margin-left: 300px;
+  padding: 10px;
+  font-weight: bold;
+  bottom: 5%;
+  position: fixed;
+  left: 70%;
+  background-color: rgb(18, 203, 236);
+  border: solid 2px rgb(245, 242, 245);
+}
