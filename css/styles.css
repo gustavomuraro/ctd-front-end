@@ -11,11 +11,10 @@ body {
 }
 
 .menu {
-  position: fixed;
+  position: sticky;
   top: 0;
   background-color: white;
   padding: 30px;
-  width: 100%;
   text-align: center;
 }
 
